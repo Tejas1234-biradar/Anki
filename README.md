@@ -1,5 +1,6 @@
 # Anki
-**Anki** is a lightweight, **offline-first mobile app** designed to help learners efficiently review and memorize Japanese kanji, focusing on **JLPT N3 level** initially. The app provides a simple, daily **5-kanji review loop**, showing the kanji character, readings (kunyomi & onyomi), meanings, and JLPT level.
+
+#### **Anki** is a lightweight, designed to help learners efficiently review and memorize Japanese kanji, focusing on **JLPT N3 level** initially. The app provides a simple, daily **5-kanji review loop**, showing the kanji character, readings (kunyomi & onyomi), meanings, and JLPT level.
 ---
 
 ## Features
@@ -13,6 +14,7 @@
 ---
 
 ---
+## Getting Started
 
 1. **Clone the repository**
 
