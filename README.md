@@ -19,7 +19,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/anki.git
+git clone https://github.com/Tejas1234-biradar/Anki/
 cd anki
 ```
 
